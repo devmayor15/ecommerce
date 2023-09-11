@@ -1,4 +1,4 @@
-##Check the live demo here [here](https://devmayor15.github.io/ecommerce) desktop view only.
+## Check the live demo here [here](https://devmayor15.github.io/ecommerce) desktop view only.
 
 # Getting Started with Create React App
 
