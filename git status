@@ -1,0 +1,11 @@
+[33mcommit 2d527be3f2e5ef71228fc181a1a41f636bc2d42e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Martins Oloyede <oloyedemartins15@gmail.com>
+Date:   Mon Sep 11 12:55:06 2023 +0100
+
+    added all files
+
+[33mcommit 71d7fb666c6d18f7576393d16248555677215877[m
+Author: Martins Oloyede <oloyedemartins15@gmail.com>
+Date:   Mon Sep 11 00:22:08 2023 +0100
+
+    Initialize project using Create React App
