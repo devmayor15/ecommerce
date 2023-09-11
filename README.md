@@ -1,3 +1,5 @@
+##Check the live demo here [https://devmayor15.github.io/ecommerce](here) desktop view only.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
